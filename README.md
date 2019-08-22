@@ -15,3 +15,10 @@
 # String ends with?
 * https://www.codewars.com/kata/string-ends-with/train/javascript
 * 7 kyu
+# Valid Braces
+* https://www.codewars.com/kata/valid-braces/train/javascript
+* 6 kyu
+# String Transformer
+* https://www.codewars.com/kata/5878520d52628a092f0002d0
+* 6 kyu
+
