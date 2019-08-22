@@ -9,3 +9,9 @@
 #Convert a Number to a String!
 *https://www.codewars.com/kata/5265326f5fda8eb1160004c8/solutions/javascript
 * 8 kyu
+#Money,Money,Money
+*https://www.codewars.com/kata/money-money-money/train/javascript
+* 7 kyu
+#String ends with?
+*https://www.codewars.com/kata/string-ends-with/train/javascript
+* 7 kyu
