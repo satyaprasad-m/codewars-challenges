@@ -24,5 +24,14 @@
 # Merged String Checker
 * https://www.codewars.com/kata/54c9fcad28ec4c6e680011aa/train/javascript
 * 5 kyu
+# Return the first M multiples of N
+* https://www.codewars.com/kata/return-the-first-m-multiples-of-n/train/javascript
+* 7 kyu
+# Indexed Capitalization
+* https://www.codewars.com/kata/indexed-capitalization/train/javascript
+* 7 kyu
+# Isograms
+* https://www.codewars.com/kata/54ba84be607a92aa900000f1/train/javascript
+* 7 kyu
 
 
